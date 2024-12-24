@@ -1,0 +1,6 @@
+# Ignore compiled binaries
+sniffer
+
+# Ignore object files
+*.o
+
